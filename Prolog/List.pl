@@ -13,7 +13,7 @@ checkMember:-
 checkLenght:-
     write('Enter in list in Square Brackets with comma'),
     read(List),
-    lenght(List,Len),
+    length(List,Len),
     write('lenght is :'),
     write(Len).
 
